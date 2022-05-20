@@ -1,0 +1,4 @@
+data.db
+.env
+result.csv
+cmd/echo/models/result.csv
